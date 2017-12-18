@@ -2,9 +2,9 @@ package com.itheima.crm.pojo;
 
 public class BaseDict {
     private String dict_id;
-
+//我添加了注释
     private String dict_type_code;
-
+//你能看到am
     private String dict_type_name;
 
     private String dict_item_name;
